@@ -1,5 +1,5 @@
 # SwampCTF 2024
-[](./gator.png)
+![](./gator.png)
 SwampCTF IS BACK! Join us and enjoy challenges in the Pwn, RE, Web, Crypto, Forensics, and Misc. categories.
 
 * Homepage: https://swampctf.com/
